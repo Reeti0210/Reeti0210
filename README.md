@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@reetisingh224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@reetisingh224" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ reeti-kumari-a34390216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ reeti-kumari-a34390216" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/reeti-kumari-a34390216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ reeti-kumari-a34390216" height="30" width="40" /></a>
 <a href="https://instagram.com/__i_am_reet__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__i_am_reet__" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/reeticse180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="reeticse180" height="30" width="40" /></a>
 </p>
