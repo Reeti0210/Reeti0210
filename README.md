@@ -6,6 +6,7 @@
   many opportunities that this field has to offer. I'm passionate about learning new skills, and I try to stay involved in my community by managing to the work. For me, it's important to find a balance 
   between academic and personal pursuits, and I believe that each enhances the other.
   I’m looking to Internship, Job & Part-Time opportunities.
+
 - I’m currently learning **React**
 
 - How to reach me **reeticse.180@gmail.com**
