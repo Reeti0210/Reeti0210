@@ -7,6 +7,7 @@
   between academic and personal pursuits, and I believe that each enhances the other.
   I’m looking to Internship, Job & Part-Time opportunities.
 
+
 - I’m currently learning **React**
 
 - How to reach me **reeticse.180@gmail.com**
