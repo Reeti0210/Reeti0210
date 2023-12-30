@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reeti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer!</h3>
 
 <img align="center" alt="coding" width="900" height="600" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 - I'm a final year student currently pursuing a B.Tech degree in Computer Science and Engineering (CSE) at Amritsar Group Of Colleges. I'm passionate about computer science and i'm excited to explore the 
