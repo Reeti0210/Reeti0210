@@ -10,7 +10,7 @@
 
 - I’m currently working on **PHP**
 
-- How to reach me **reeticse.180@gmail.com**
+- How to reach me **https://reeti0210.github.io/LinkTree/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
