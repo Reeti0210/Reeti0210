@@ -8,7 +8,7 @@
   I’m looking to Internship, Job & Part-Time opportunities.
 
 
-- I’m currently learning **React**
+- I’m currently working on **PHP**
 
 - How to reach me **reeticse.180@gmail.com**
 
